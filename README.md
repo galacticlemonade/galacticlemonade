@@ -4,6 +4,7 @@ Some brief info about me:
 - 👨‍💻 I am a developer that enjoys using C/C++, as well as C# and Lua.
 - 👀 Some of my interests lie in experimenting with technologies in embedded syetems.
 - 🚀 In my free time, I enjoy working on a few private projects, and automotive technologies.
+yeah yeah i'm not active in public
 
 <hr>
 
