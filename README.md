@@ -5,7 +5,7 @@ i enjoy programming and electrical engineering in my free time.
 <br>
 i also have an unhealthy obsession with Redbox!
 <br>
-in fact, i own a kiosk (yes, the entire kiosk) #35618
+in fact, i own two kiosks (yes, the entire kiosk) #35618 and #15741 
 <br>
 <br>
 some of the languages i'm fluent in is:
